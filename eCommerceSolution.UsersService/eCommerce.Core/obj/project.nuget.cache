@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gVxFfvvHyM=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Microservices_Course\\eCommerceSolution.UsersService\\eCommerce.Core\\eCommerce.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\draga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFEf3bc4Dh8=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Microservices_Course\\eCommerceSolution.UsersService\\eCommerce.API\\eCommerce.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\draga\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
